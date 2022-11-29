@@ -1,5 +1,5 @@
 # pt_project
-I put most I've learned from CCNA in this project, the designing might not suit in real world scenario due to my lack of experience,   
+I put most I've learned from CCNA in this project, the designing might not suit in real world scenario due to my lack of experience, doing my best base on my understanding and via the researching.
 Summary of the topology:
 -Port security, ip DHCP snooping and ARP inspection configured on all switches 
 -OSPF configured all all routers and multi-layer switches
